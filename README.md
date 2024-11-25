@@ -145,7 +145,7 @@ The Home view provides buttons for navigating to specific pages:
 
 ## Executive View
 
-![Executive View](https:/.gif)
+![Executive View](https://1drv.ms/i/s!At2KtAUZ6146gc1L8P-r5H3cVfWcnw?e=gO5W4Z)
 
 ## Products
 

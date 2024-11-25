@@ -8,6 +8,7 @@ I worked on this project by following the Codebasics Power BI Course. [Check out
 
 [Live Report Link.pbix](https://app.powerbi.com/view?r=eyJrIjoiYWIwN2VkNGMtYjVmMC00MjczLWI4ODQtNjE2OTlkMjVmMmI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+<iframe title="360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWIwN2VkNGMtYjVmMC00MjczLWI4ODQtNjE2OTlkMjVmMmI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 ## Tech and Softwares used
 
 - SQL

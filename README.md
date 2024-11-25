@@ -141,7 +141,7 @@ The Home view provides buttons for navigating to specific pages:
 
 ## Supply Chain View
 
-![Supply Chain View]([https://.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Supply%20Chain%20View.png))
+![Supply Chain View.png](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Supply%20Chain%20View.png)
 
 ## Executive View
 

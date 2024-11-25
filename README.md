@@ -6,7 +6,7 @@ AtliQ Hardware has been growing rapidly in recent years, and they've decided to 
 
 I worked on this project by following the Codebasics Power BI Course. [Check out the course here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link.pbix](https://github.com/Subhojit45/Business-Insight-360/blob/main/360.pbix)
 
 ## Tech and Softwares used
 

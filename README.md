@@ -125,31 +125,31 @@ The Home view provides buttons for navigating to specific pages:
 
 ## Info Page
 
-![Info Page](https:.gif)
+![Info Page]([https:.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Finance%20View.png))
 
 ## Finance View
 
-![Finance View](https:.gif)
+![Finance View]([https:.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Finance%20View.png))
 
 ## Sales View
 
-![Sales View](https:/.gif)
+![Sales View]([https:/.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Sales%20View.png))
 
 ## Marketing View
 
-![Marketing View](https:/.gif)
+![Marketing View]([https:/.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Marketing%20View.png))
 
 ## Supply Chain View
 
-![Supply Chain View](https://.gif)
+![Supply Chain View]([https://.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Supply%20Chain%20View.png))
 
 ## Executive View
 
-![Executive View](https://1drv.ms/i/s!At2KtAUZ6146gc1L8P-r5H3cVfWcnw?e=gO5W4Z)
+![Executive View]([https://1drv.ms/i/s!At2KtAUZ6146gc1L8P-r5H3cVfWcnw?e=gO5W4Z](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Executive%20View.png ))
 
 ## Products
 
-![Products](https:/.gif)
+![Products]([https:/.gif](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Products.png))
 
 You can find the full report file here: [Report]([https://github.pbix](https://github.com/Subhojit45/Business-Insight-360/blob/main/360.pbix))
 

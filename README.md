@@ -151,7 +151,7 @@ The Home view provides buttons for navigating to specific pages:
 
 ![Products](https:/.gif)
 
-You can find the full report file here: [Report](https://github.pbix)
+You can find the full report file here: [Report]([https://github.pbix](https://github.com/Subhojit45/Business-Insight-360/blob/main/360.pbix))
 
 ## Project Outcome
 

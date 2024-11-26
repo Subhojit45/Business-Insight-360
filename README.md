@@ -146,13 +146,13 @@ The Home view provides buttons for navigating to specific pages:
 
 ## Executive View
 
-![Executive View.png](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Executive%20View.png )
+![Executive View.png](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Executive%20View.png)
 
 ## Products
 
 ![Products.png](https://github.com/Subhojit45/Business-Insight-360/blob/main/View/Products.png)
 
-You can find the full report file here: [Report]([https://github.pbix](https://github.com/Subhojit45/Business-Insight-360/blob/main/360.pbix))
+You can find the full report file here: [Report](https://github.com/Subhojit45/Business-Insight-360/blob/main/360.pbix)
 
 ## Project Outcome
 
